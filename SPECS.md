@@ -4,7 +4,7 @@
 
 Pinout & schematic: https://docs.typeractive.xyz/build-guides/lily58-wireless/troubleshooting
 
-nice!view uses the pins: https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/nice_view_adapter/boards/nice_nano_v2.overlay and https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/nice_view_adapter
+nice!view uses the pins: https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/nice_view_adapter/boards/nice_nano_v2.overlay and https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/nice_view_adapter and https://github.com/zmkfirmware/zmk/blob/main/app/boards/arm/nice_nano/arduino_pro_micro_pins.dtsi
 
 P0.06 / D1 (CS) -> pin D1 is hardcoded
 P0.17 (MOSI)
